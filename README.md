@@ -2,6 +2,10 @@
 
 Global sea levels are rising as a result of human-caused global warming, with recent rates being unprecedented over the past 2,000-plus years. Sea level rise is caused primarily by two factors related to global warming: the added water from melting ice sheets and glaciers and the expansion of seawater as it warms. This dataset contains the change in sea level since 1993 as observed by satellites.
 
+# Objective
+
+Perform a predictive model with the aim of making predictions of sea level variation, based on a dataset that provides information about the global average sea level variation from 1993 to 2021.
+
 # Content
 Col1 - Year
 
