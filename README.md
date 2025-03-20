@@ -29,4 +29,4 @@ Col9 - Smoothed (60-day Gaussian type filter) GMSL (GIA applied) variation (mm);
 
 # References
 
-- Kaggle. Available in: <https://www.kaggle.com/datasets/kkhandekar/global-sea-level-1993-2021/code>. Acessed in 03/20/2025.
+- Kaggle. Available in: <https://www.kaggle.com/datasets/kkhandekar/global-sea-level-1993-2021/code>. Accessed in 03/20/2025.
